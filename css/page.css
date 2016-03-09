@@ -121,3 +121,14 @@ body{
 		.connect{
 			float: right;
 		}
+
+		.text2{
+			width: 797px;
+			float: right;
+		}
+
+		.text2 p{
+			font-size: 22px;
+		}
+
+
